@@ -1,0 +1,13 @@
+{
+  "name": "deciphercredit/phpxlsx",
+  "description": "Phpxlsx wrapper for Laravel",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "Phpxlsx\\": "Classes/Phpxlsx/"
+    }
+  },
+  "require": {
+    "php": "^7.0 || ^8.0"
+  }
+}
